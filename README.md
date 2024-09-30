@@ -48,7 +48,7 @@ Automatically mine new research papers and get real-time alerts when significant
 ## 🚀 **Getting Started**
 
 ### 🔧 **Pre-requisites**
-- Python 3
+- Python 3.10 or above
 - Docker or WSL (for Windows users)
 
 ## Installation And Usage
