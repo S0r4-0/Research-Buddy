@@ -137,6 +137,10 @@ We welcome contributions! Please feel free to fork the repository and submit pul
 
 ---
 
+## ✨ Contributors
+
+The individual contributions to the success of this project are listed in [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
+
 ## 📄 **License**
 
 This project is licensed under the [MIT License](LICENSE).
