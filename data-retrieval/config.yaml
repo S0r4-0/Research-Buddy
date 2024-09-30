@@ -1,0 +1,13 @@
+llm_config:
+  model: "gemini/gemini-pro"
+host_config:
+  host: "0.0.0.0"
+  port: 8000
+cache_options:
+  with_cache: True
+  cache_folder: "./Cache"
+sources:
+  - local_files:
+    kind: local
+    config:
+      path: "data/"

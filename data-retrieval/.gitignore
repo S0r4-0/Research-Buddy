@@ -1,0 +1,12 @@
+# Ignore py-virutal env
+../venv/
+
+# Ignore Dataset but keep folder
+data/*
+!data/.gitkeep
+
+# Ignore Cache 
+Cache/
+
+# Ignore envirmental variables
+.env
