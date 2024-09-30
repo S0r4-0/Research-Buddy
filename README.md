@@ -43,7 +43,7 @@ Automatically mine new research papers and get real-time alerts when significant
 
 
 ## Demo Link
-<>
+ [Linkedin and Video Link](https://www.linkedin.com/posts/vedant-airon-1592b1289_llm-ai-dataprocessing-activity-7246561374359691264-uWUz?utm_source=share&utm_medium=member_android)
 
 ## 🚀 **Getting Started**
 
@@ -58,7 +58,7 @@ Automatically mine new research papers and get real-time alerts when significant
 Clone the repo
 
 ```bash
-  git clone <>
+  git clone https://github.com/S0r4-0/Research-Buddy.git
 ```
 
 Download requirements.txt
@@ -105,7 +105,7 @@ Pathway is currently not available on Windows.
 Clone the repo
 
 ```bash
-  git clone <>
+  git clone https://github.com/S0r4-0/Research-Buddy.git
   cd data-retrieval
 ```
 
